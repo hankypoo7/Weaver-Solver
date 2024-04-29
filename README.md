@@ -2,7 +2,7 @@
 A solver for any challenge of the weaver game. The game can be played at [wordwormdormdork.com](http://wordwormdormdork.com/) or [weaverwordle.com](http://weaverwordle.com/).
 The game is a "word ladder" game.
 ### Rules
-You have to weave your way from the strating word to the ending word. Each word inbetween can only change 1 letter from the word above.
+You have to weave your way from the strating word to the ending word. Each word inbetween can only change 1 letter from the word above. 
 
 ## FAQ
 ### How does the game work?
